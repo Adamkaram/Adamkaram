@@ -14,20 +14,8 @@ Just a Homo sapiens sapiens looking to makeMoney as Jeff Bezos without no knowle
 - Don't smoke cigarettes! 
 - Eat a banana every day before sleeping and another one after u woke up 
 - i love my family  and my cat  
-- 
-- 
-
-## 🌱 I'm currently learning
-
-- Rust 
-- Htmx
-- Bun
   
-
-
-## Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
+  
 
 
 ## OSS Contribution 
