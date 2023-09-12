@@ -1,11 +1,11 @@
 
-<h3 >
+<p >
 RomanG(AHmed Karam)
-</h3>
+</p>
 
-<h2 >
+
 Just a Homo sapiens sapiens looking to makeMoney as Jeff Bezos without no knowledge of how to code just copypasta from AI tools and taking advice from twitter tech leader and ex-google ex-amazon ex-FANG mang person who tell don't learn to code (Techlead) .  i'm kidding just i love to code build performant projects  
-</h2> 
+
 
 
 
