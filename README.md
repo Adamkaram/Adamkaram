@@ -12,7 +12,7 @@ Just a Homo sapiens sapiens looking to makeMoney as Jeff Bezos without no knowle
 ## FYI
 
 - Don't smoke cigarettes! 
-- Eat a banana every day before sleeping and another one after u woke up 
+- eat a banana every day before sleeping and another one after u woke up 
 - i love my family  and my cat  
   
   
