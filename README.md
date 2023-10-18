@@ -21,7 +21,7 @@ Just a Homo sapiens sapiens looking to makeMoney as Jeff Bezos without no knowle
 ## OSS Contribution 
 
 - [Skateshop](https://github.com/sadmann7/skateshop/commits?author=Adamkaram)
-- [openstatusHQ](https://github.com/openstatusHQ/openstatus/commits?author=Adamkaram)
+- [openstatusHQ](https://github.com/openstatusHQ/openstatus/pull/13)
 - [text-converter](https://github.com/sowidan1/Text-Converter-Google-Extension/commit/8da13989a10f4bc636edae92771d7135331e9294) 
 - [spacedriveapp](https://github.com/spacedriveapp/spacedrive/pull/1521) 
 
