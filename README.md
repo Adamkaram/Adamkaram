@@ -24,6 +24,7 @@ Just a Homo sapiens sapiens looking to makeMoney as Jeff Bezos without no knowle
 - [openstatusHQ](https://github.com/openstatusHQ/openstatus/pull/13)
 - [text-converter](https://github.com/sowidan1/Text-Converter-Google-Extension/commit/8da13989a10f4bc636edae92771d7135331e9294) 
 - [spacedriveapp](https://github.com/spacedriveapp/spacedrive/pull/1521) 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books/pull/10555) 
 
 ![well-hello-there](https://github.com/Adamkaram/Adamkaram/assets/52092726/1a7211a4-9b2b-4ae6-b6b5-6b2bf156d582)
 
