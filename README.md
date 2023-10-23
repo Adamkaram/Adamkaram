@@ -20,9 +20,15 @@ Just a Homo sapiens sapiens looking to make money like Jeff Bezos without no kno
 
 ## OSS Contribution 
 
+[Code]
+
 - [Skateshop](https://github.com/sadmann7/skateshop/pull/62)
-- [openstatusHQ](https://github.com/openstatusHQ/openstatus/pull/13)
 - [text-converter](https://github.com/sowidan1/Text-Converter-Google-Extension/pull/1) 
+
+
+[README]
+
+- [openstatusHQ](https://github.com/openstatusHQ/openstatus/pull/13)
 - [spacedriveapp](https://github.com/spacedriveapp/spacedrive/pull/1521) 
 - [free-programming-books] | [1](https://github.com/EbookFoundation/free-programming-books/pull/10555) | [2](https://github.com/EbookFoundation/free-programming-books/pull/10604) | [3](https://github.com/EbookFoundation/free-programming-books/pull/10605)
 
