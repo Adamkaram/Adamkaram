@@ -32,5 +32,10 @@ Just a Homo sapiens sapiens looking to make money like Jeff Bezos without no kno
 - [spacedriveapp](https://github.com/spacedriveapp/spacedrive/pull/1521) 
 - [free-programming-books] | [1](https://github.com/EbookFoundation/free-programming-books/pull/10555) | [2](https://github.com/EbookFoundation/free-programming-books/pull/10604) | [3](https://github.com/EbookFoundation/free-programming-books/pull/10605)
 
+
+[awards]
+
+[![An image of @adamkaram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamkaram)](https://holopin.io/@adamkaram)
+
 ![well-hello-there](https://github.com/Adamkaram/Adamkaram/assets/52092726/1a7211a4-9b2b-4ae6-b6b5-6b2bf156d582)
 
