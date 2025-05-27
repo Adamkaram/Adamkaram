@@ -31,10 +31,9 @@ Just a Homo sapiens sapiens looking to make money like Jeff Bezos without no kno
 - [openstatusHQ](https://github.com/openstatusHQ/openstatus/pull/13)
 - [spacedriveapp](https://github.com/spacedriveapp/spacedrive/pull/1521) 
 - [free-programming-books] | [1](https://github.com/EbookFoundation/free-programming-books/pull/10555) | [2](https://github.com/EbookFoundation/free-programming-books/pull/10604) | [3](https://github.com/EbookFoundation/free-programming-books/pull/10605)
-[facebook/pyrefly] (https://github.com/facebook/pyrefly/pull/362)
 - [bun](https://github.com/Hacksore/yarn-npm-pnpm)
 - [pahe](https://github.com/hamngku/PaheinBypass/issues/1)
-- 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly/pull/362)
 [awards]
 
 [![An image of @adamkaram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamkaram)](https://holopin.io/@adamkaram)
